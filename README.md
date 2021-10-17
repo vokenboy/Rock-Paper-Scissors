@@ -2,8 +2,6 @@
 
 Free and open source!
 
-main.py is my own creation for the first time!
-
 other .py files are upcoming to experiment a better code.
 
 also testing how the git works...
